@@ -9,4 +9,3 @@ blackbolt333/blackbolt333 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-sudo apt-get install --reinstall $(dpkg -l | grep ^ii | grep -i intel | awk '{print $2}')
